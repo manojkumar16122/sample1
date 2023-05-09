@@ -1,1 +1,1 @@
-create commit
+git reset --hard master
